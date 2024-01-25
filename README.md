@@ -3,10 +3,10 @@
 ---
 ### *Table of contents*
 - [*Overview*](#overview)
-- [*System requirements*](#system)
+- [*System_requirements*](#system)
 - [*Installation guide*](#installation)
 - [*Demo*](#demo)
-- [*Instructions for use*](#instructions)
+- [*Instructions_for_use*](#instructions)
 - [*Authors*](#authors)
 - [*License*](#license)
 - [*Contact*](#contact)
