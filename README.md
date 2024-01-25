@@ -80,30 +80,30 @@ Demo.csv contains the structural formula, SMILES, and predicted LUBO energy leve
 
  D. There are five possible patterns.
   1. Input only CHT/NCD's SMILES,<br>
-<img src="./S1.png" width="40%"><br>
+<img src="./images/S1.png" width="40%"><br>
 
   2. Input only Enophile's SMILES,<br>
-<img src="./S2.png" width="40%"><br>
+<img src="./images/S2.png" width="40%"><br>
 
   3. Input both of them,<br>
-<img src="./S3.png" width="40%"><br>
+<img src="./images/S3.png" width="40%"><br>
 
   4. Input no characters,<br>
-<img src="./S4.png" width="40%"><br>
+<img src="./images/S4.png" width="40%"><br>
 
   5. Input strings different from SMILES
 
   D-1. You should click "Predict !!" button, and a new "Result" window showing predicted CHT/NCD's HOBO energy will pop up.<br> 
-<img src="./S5.png" width="40%"><br>
+<img src="./images/S5.png" width="40%"><br>
 
   D-2. You should click "Predict !!" button, and a new "Result" window showing predicted Enophile's LUBO energy will pop up.<br>
-<img src="./S6.png" width="40%"><br>
+<img src="./images/S6.png" width="40%"><br>
 
   D-3. You should click "Predict !!" button, and a new "Result" window showing not only each predicted bond orbital energy, but also HOBO-LUBO GAP between them will pop up.<br>
-<img src="./S7.png" width="40%"><br>
+<img src="./images/S7.png" width="40%"><br>
 
   D-4. You should click "Predict !!" button, and a new "Result" window showing the caution word "Please Input SMILES!!!" will pop up.<br>
-<img src="./S8.png" width="40%"><br>
+<img src="./images/S8.png" width="40%"><br>
 
   D-5. If you click "Predict !!" button, a new window doesn't pop up, and an error message is output to the terminal. Please try again.
 
